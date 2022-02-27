@@ -127,20 +127,12 @@ const CONFIG = {
       id: '1',
       links: [
         {
-          name: 'Inspirational',
-          link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+          name: 'LoFi',
+          link: 'https://www.youtube.com/playlist?list=PLOrhCNdJB6bKSze1IyP8f74ZjsuFOy4mO',
         },
         {
-          name: 'Classic',
-          link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-        },
-        {
-          name: 'Oldies',
-          link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-        },
-        {
-          name: 'Rock',
-          link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+          name: 'Trap',
+          link: 'https://www.youtube.com/playlist?list=PLOrhCNdJB6bJNTM6W71LOHjOE_Ub_o-Z_',
         },
       ],
     },
@@ -161,8 +153,8 @@ const CONFIG = {
           link: 'https://www.animeworld.tv/',
         },
         {
-          name: 'Classroom',
-          link: 'https://classroom.google.com/u/2/h',
+          name: 'Amazon',
+          link: 'https://www.amazon.it/',
         },
       ],
     },

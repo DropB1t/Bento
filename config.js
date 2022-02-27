@@ -134,6 +134,14 @@ const CONFIG = {
           name: 'Trap',
           link: 'https://www.youtube.com/playlist?list=PLOrhCNdJB6bJNTM6W71LOHjOE_Ub_o-Z_',
         },
+        {
+          name: 'Oldies',
+          link: 'https://www.youtube.com/watch?v=nR-Zen2s2Qw',
+        },
+        {
+          name: 'Sad-Slowed',
+          link: 'https://www.youtube.com/playlist?list=PLOrhCNdJB6bKeWI3WS4RKQYUBj6rBQrT6',
+        },
       ],
     },
     {

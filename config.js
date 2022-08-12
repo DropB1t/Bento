@@ -67,7 +67,7 @@ const CONFIG = {
       id: '3',
       name: 'Todoist',
       icon: 'trello',
-      link: 'https://keep.google.com/',
+      link: 'https://todoist.com/app/today',
     },
     {
       id: '4',
@@ -77,13 +77,13 @@ const CONFIG = {
     },
     {
       id: '5',
-      name: 'Reddit',
-      icon: 'glasses',
-      link: 'https://reddit.com',
+      name: 'Twitter',
+      icon: 'twitter',
+      link: 'https://twitter.com/home',
     },
     {
       id: '6',
-      name: 'Odysee',
+      name: 'YouTube',
       icon: 'youtube',
       link: 'https://www.youtube.com/',
     },
@@ -127,7 +127,7 @@ const CONFIG = {
       id: '1',
       links: [
         {
-          name: 'LoFi',
+          name: 'Lo-Fi',
           link: 'https://www.youtube.com/playlist?list=PLOrhCNdJB6bKSze1IyP8f74ZjsuFOy4mO',
         },
         {
@@ -135,12 +135,12 @@ const CONFIG = {
           link: 'https://www.youtube.com/playlist?list=PLOrhCNdJB6bJNTM6W71LOHjOE_Ub_o-Z_',
         },
         {
-          name: 'Oldies',
-          link: 'https://www.youtube.com/watch?v=nR-Zen2s2Qw',
+          name: 'Vibes',
+          link: 'https://www.youtube.com/playlist?list=PLOrhCNdJB6bKeWI3WS4RKQYUBj6rBQrT6',
         },
         {
-          name: 'Sad-Slowed',
-          link: 'https://www.youtube.com/playlist?list=PLOrhCNdJB6bKeWI3WS4RKQYUBj6rBQrT6',
+          name: 'Watch Later',
+          link: 'https://www.youtube.com/playlist?list=WL',
         },
       ],
     },

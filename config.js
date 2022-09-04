@@ -11,9 +11,9 @@ const CONFIG = {
   // └─┘┴ ┴└─┘┴└─┘└─┘
 
   // General
-  name: 'DropBit',
+  name: 'Yuriy',
   imageBackground: true,
-  openInNewTab: true,
+  openInNewTab: false,
   twelveHourFormat: false,
 
   // Greetings
@@ -27,7 +27,7 @@ const CONFIG = {
 
   // Weather
   weatherKey: '005dfa6f655e32f1ceca39115347bab6', // Write here your API Key
-  weatherIcons: 'Nord', // 'Onedark', 'Nord', 'Dark', 'White'
+  weatherIcons: 'White', // 'Onedark', 'Nord', 'Dark', 'White'
   weatherUnit: 'C', // 'F', 'C'
   language: 'en', // More languages in https://openweathermap.org/current#multi
 
@@ -77,15 +77,15 @@ const CONFIG = {
     },
     {
       id: '5',
-      name: 'Twitter',
-      icon: 'twitter',
-      link: 'https://twitter.com/home',
+      name: 'UniPi Agenda',
+      icon: 'graduation-cap',
+      link: 'https://agendadidattica.unipi.it/Prod/Home/Calendar',
     },
     {
       id: '6',
-      name: 'YouTube',
-      icon: 'youtube',
-      link: 'https://www.youtube.com/',
+      name: 'Amazon',
+      icon: 'shopping-bag',
+      link: 'https://amazon.com/',
     },
   ],
 
@@ -123,7 +123,7 @@ const CONFIG = {
   // First Links Container
   firstlistsContainer: [
     {
-      icon: 'music',
+      icon: 'library',
       id: '1',
       links: [
         {
@@ -149,8 +149,8 @@ const CONFIG = {
       id: '2',
       links: [
         {
-          name: 'Linkedin',
-          link: 'https://www.linkedin.com',
+          name: 'YouTube',
+          link: 'https://www.youtube.com/',
         },
         {
           name: 'Netflix',
@@ -161,8 +161,8 @@ const CONFIG = {
           link: 'https://www.animeworld.tv/',
         },
         {
-          name: 'Amazon',
-          link: 'https://www.amazon.it/',
+          name: 'Twitter',
+          link: 'https://twitter.com/home',
         },
       ],
     },

@@ -127,20 +127,20 @@ const CONFIG = {
       id: '1',
       links: [
         {
-          name: 'Lo-Fi',
-          link: 'https://www.youtube.com/playlist?list=PLOrhCNdJB6bKSze1IyP8f74ZjsuFOy4mO',
+          name: 'Rust Book',
+          link: 'https://doc.rust-lang.org/book/',
         },
         {
-          name: 'Trap',
-          link: 'https://www.youtube.com/playlist?list=PLOrhCNdJB6bJNTM6W71LOHjOE_Ub_o-Z_',
+          name: 'Java Doc',
+          link: 'https://docs.oracle.com/javase/8/docs/api/',
         },
         {
-          name: 'Vibes',
-          link: 'https://www.youtube.com/playlist?list=PLOrhCNdJB6bKeWI3WS4RKQYUBj6rBQrT6',
+          name: 'Outlook',
+          link: 'https://outlook.office.com/mail/',
         },
         {
-          name: 'Watch Later',
-          link: 'https://www.youtube.com/playlist?list=WL',
+          name: 'Moodle',
+          link: 'https://elearning.di.unipi.it/',
         },
       ],
     },
@@ -148,6 +148,10 @@ const CONFIG = {
       icon: 'coffee',
       id: '2',
       links: [
+        {
+          name: 'AnimeWorld',
+          link: 'https://www.animeworld.tv/',
+        },
         {
           name: 'YouTube',
           link: 'https://www.youtube.com/',
@@ -157,12 +161,8 @@ const CONFIG = {
           link: 'https://www.netflix.com/browse',
         },
         {
-          name: 'AnimeWorld',
-          link: 'https://www.animeworld.tv/',
-        },
-        {
-          name: 'Twitter',
-          link: 'https://twitter.com/home',
+          name: 'Prime Video',
+          link: 'https://www.primevideo.com/',
         },
       ],
     },

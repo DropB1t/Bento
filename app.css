@@ -86,7 +86,7 @@ body {
 
 .withImageBackground {
   background-image: var(--imgcol), var(--imgbg);
-  background-size: cover;
+  background-size: auto;
 }
 
 #themeButton {

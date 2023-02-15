@@ -65,9 +65,9 @@ const CONFIG = {
     },
     {
       id: '3',
-      name: 'Todoist',
-      icon: 'trello',
-      link: 'https://todoist.com/app/today',
+      name: 'Notion',
+      icon: 'album',
+      link: 'https://www.notion.so/dropbit/Main-Board-481c96ee740945d4b6c291f89f8b5d67',
     },
     {
       id: '4',
@@ -135,8 +135,8 @@ const CONFIG = {
           link: 'https://docs.oracle.com/javase/8/docs/api/',
         },
         {
-          name: 'Outlook',
-          link: 'https://outlook.office.com/mail/',
+          name: 'Reddit',
+          link: 'https://www.reddit.com/',
         },
         {
           name: 'Moodle',

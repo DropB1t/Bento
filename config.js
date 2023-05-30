@@ -139,8 +139,8 @@ const CONFIG = {
 					link: "https://doc.rust-lang.org/book/",
 				},
 				{
-					name: "Java Doc",
-					link: "https://docs.oracle.com/javase/8/docs/api/",
+					name: "SvelteKit Doc",
+					link: "https://kit.svelte.dev/docs/introduction",
 				},
 				{
 					name: "Reddit",

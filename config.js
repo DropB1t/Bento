@@ -131,7 +131,7 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: "library",
+			icon: "binary",
 			id: "1",
 			links: [
 				{
@@ -143,8 +143,8 @@ const CONFIG = {
 					link: "https://kit.svelte.dev/docs/introduction",
 				},
 				{
-					name: "Reddit",
-					link: "https://www.reddit.com/",
+					name: "Go Doc",
+					link: "https://pkg.go.dev/std",
 				},
 				{
 					name: "Moodle",
@@ -165,12 +165,12 @@ const CONFIG = {
 					link: "https://www.youtube.com/",
 				},
 				{
-					name: "Netflix",
-					link: "https://www.netflix.com/browse",
-				},
-				{
 					name: "Prime Video",
 					link: "https://www.primevideo.com/",
+				},
+				{
+					name: "Twitter",
+					link: "https://twitter.com/home",
 				},
 			],
 		},

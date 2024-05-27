@@ -12,7 +12,7 @@ const CONFIG = {
 
 	// General
 	name: "Yuriy",
-	openInNewTab: false,
+	openInNewTab: true,
 	twelveHourFormat: false,
 	title: "Dashboard",
 
@@ -68,8 +68,14 @@ const CONFIG = {
 		{
 			id: "2",
 			name: "Mail",
-			icon: "mail",
+			icon: "mailbox",
 			link: "https://mail.google.com/",
+		},
+		{
+			id: "5",
+			name: "Calendar",
+			icon: "calendar",
+			link: "https://calendar.google.com/calendar/r",
 		},
 		{
 			id: "3",
@@ -79,15 +85,9 @@ const CONFIG = {
 		},
 		{
 			id: "4",
-			name: "Calendar",
-			icon: "calendar",
-			link: "https://calendar.google.com/calendar/r",
-		},
-		{
-			id: "5",
-			name: "UniPi Agenda",
-			icon: "graduation-cap",
-			link: "https://agendadidattica.unipi.it/Prod/Home/Calendar",
+			name: "Outlook",
+			icon: "mails",
+			link: "https://outlook.office.com/mail/",
 		},
 		{
 			id: "6",
@@ -135,20 +135,20 @@ const CONFIG = {
 			id: "1",
 			links: [
 				{
-					name: "Rust Book",
-					link: "https://doc.rust-lang.org/book/",
-				},
-				{
 					name: "SvelteKit Doc",
 					link: "https://kit.svelte.dev/docs/introduction",
+				},
+				{
+					name: "Rust Book",
+					link: "https://doc.rust-lang.org/book/",
 				},
 				{
 					name: "Go Doc",
 					link: "https://pkg.go.dev/std",
 				},
 				{
-					name: "Moodle",
-					link: "https://elearning.di.unipi.it/",
+					name: "C++ Doc",
+					link: "https://cplusplus.com/reference/",
 				},
 			],
 		},
@@ -161,16 +161,16 @@ const CONFIG = {
 					link: "https://www.animeworld.tv/",
 				},
 				{
-					name: "YouTube",
-					link: "https://www.youtube.com/",
+					name: "YT Playlist",
+					link: "https://www.youtube.com/feed/playlists",
 				},
 				{
-					name: "Prime Video",
-					link: "https://www.primevideo.com/",
+					name: "Twitch",
+					link: "https://www.twitch.tv/directory/following",
 				},
 				{
-					name: "Twitter",
-					link: "https://twitter.com/home",
+					name: "X",
+					link: "https://x.com/home",
 				},
 			],
 		},
